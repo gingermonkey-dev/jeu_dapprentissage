@@ -70,7 +70,7 @@ class JeuElias:
         self.record_module1 = self.lire_le_record(self.fichier_record_m1)
         self.record_module2 = self.lire_le_record(self.fichier_record_m2)
 
-        # Variables
+        
         self.moment_du_depart = 0
         self.mot_actuel = ""
         self.lettres_deja_tapees = ""
